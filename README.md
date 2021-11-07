@@ -8,7 +8,7 @@ This is the place where I opensource stuff and break things 🤣
 - 🔭 I’m currently working on something really cool 😉
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on more open source projects.
-- 💬 Ask me anything [here](https://www.instagram.com/emirhan.dalgiran/) related to <b>Android application Development, Windows Forms, Android Custom Operating System Development, Java, Javascript, Swift, Unity, IOS Development.</b>
+- 💬 Ask me anything [here](https://www.instagram.com/emirhan.dalgiran/) related to <b>Android application Development, Windows Forms, C#, Android Custom Operating System Development, Java, Javascript, Swift, Unity, IOS Development.</b>
 - ⚡ Fun fact: I ❤️ 🏍️
 
 ### Connect with me:
