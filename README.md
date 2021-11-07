@@ -8,7 +8,7 @@ This is the place where I opensource stuff and break things 🤣
 - 🔭 I’m currently working on something really cool 😉
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on more open source projects.
-- 💬 Ask me anything [here](https://www.instagram.com/emirhan.dalgiran/) related to <b>Android application Development, Windows Forms, C#, Android Custom Operating System Development, Java, Javascript, Swift, Unity, IOS Development.</b>
+- 💬 Ask me anything [here](https://www.instagram.com/emirhan.dalgiran/) related to <b>Android application Development, Windows Forms, Android Custom Operating System Development, IOS Development, C#, Java, Javascript, Swift, Unity.</b>
 - ⚡ Fun fact: I ❤️ & 🏍️
 
 ### Connect with me:
@@ -31,6 +31,7 @@ This is the place where I opensource stuff and break things 🤣
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Node.js" width="26px" src="https://w7.pngwing.com/pngs/984/519/png-transparent-unity-computer-icons-software-development-kit-others-angle-triangle-logo.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="XCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
