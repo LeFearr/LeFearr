@@ -1,14 +1,14 @@
 ### Hi there, I'm Emirhan Dalgıran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
-
+**vibhorchaudhary/vibhorchaudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 This is the place where I opensource stuff and break things 🤣
 
 - 🔭 I’m currently working on something really cool 😉
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on more open source projects.
-- 💬 Ask me anything [here](https://www.instagram.com/emirhan.dalgiran/) related to <b>Android application Development, Windows Forms, C#, Android Custom Operating System Development, Java, Javascript, Swift, Unity, IOS Development.</b>
+- 💬 Ask me anything [here](https://www.instagram.com/emirhan.dalgiran/) related to <b>Android application Development, Windows Forms, Android Custom Operating System Development, Java, Javascript, Swift, Unity, IOS Development.</b>
 - ⚡ Fun fact: I ❤️ & 🏍️
 
 ### Connect with me:
@@ -39,7 +39,7 @@ This is the place where I opensource stuff and break things 🤣
 <br />
 
 ### 📊 GitHub Stats:
-![Emirhan Dalgıran's github stats](https://github-readme-stats.vercel.app/api?username=lefearr&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
+![LeFearr's github stats](https://github-readme-stats.vercel.app/api?username=lefearr&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 
 
 
