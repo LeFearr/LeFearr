@@ -23,7 +23,7 @@ This is the place where I opensource stuff and break things 🤣
 ### Languages and Tools:
 <img align="left" alt="C#" width="26px" src="https://www.cnjobs.dk/drupal/sites/default/files/2019-01/csharp-01.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+<img align="left" alt="Android" width="26px" src="https://img.favpng.com/13/23/14/c-foreach-loop-while-loop-conditional-png-favpng-LKs4HkfcdgR64TbSHhtHVD7DK.jpg" />
 <img align="left" alt="iOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
 <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
