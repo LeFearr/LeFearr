@@ -36,9 +36,9 @@ This is the place where I opensource stuff and break things 🤣
 <br />
 
 ### 📊 GitHub Stats:
-![LeFearr's github stats](https://github-readme-stats.vercel.app/api?username=lefearr&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lefearr&layout=compact)
+![emirhandalgiran's github stats](https://github-readme-stats.vercel.app/api?username=emirhandalgiran&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirhandalgiran&layout=compact)
 
 
 [instagram]: https://www.instagram.com/emirhan.dalgiran/
-[github]: https://github.com/lefearr
+[github]: https://github.com/emirhandalgiran
