@@ -1,4 +1,5 @@
-### Hi there, I'm a Student My Name is Emirhan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm a Student My Name is Emirhan 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="320" />
 <!--
 **emirhandalgiran/emirhandalgiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
