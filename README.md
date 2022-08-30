@@ -9,8 +9,6 @@ This is the place where I opensource stuff and break things 🤣
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on more open source projects.
 - 💬 Ask me anything [here](https://www.instagram.com/emirhan.dalgiran/) related to <b>Android application Development, Windows Forms, C#, Javascript, Unity.</b>
-- ⚡ Fun fact: I ❤️ & 🏍️
-- My Discord LeFearr#3384
 
 ### Connect with me:
 
