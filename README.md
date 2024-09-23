@@ -3,10 +3,10 @@
 <!--
 **emirhandalgiran/emirhandalgiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-This is the place where I opensource stuff and break things 🤣
+This is the place where I opensource stuff and break things
 
-- 🔭 I’m currently working on something really cool 😉
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on something really cool
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on more open source projects.
 - 💬 Ask me anything [here](https://www.instagram.com/emirhan.dalgiran/) related to <b>Android application Development, Windows Forms, C#, Javascript, Unity.</b>
 
